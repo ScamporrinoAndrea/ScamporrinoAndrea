@@ -5,7 +5,7 @@
 
 - 🔭 Currently, I'm pursuing a master’s degree in software engineering
 - 👨‍💻 Bachelor degree in Computer Engineering at Polytechnic University of Turin
-- 📄 Know about my experiences [Curriculum Vitae](https://cv-scamporrinoandrea.tiiny.site)
+- 📄 Know about my experiences [Curriculum Vitae](https://scamporrinoandrea.github.io/Resume/Resume_Andrea_Scamporrino.pdf)
 
 <details>
     <summary>Stats</summary>
